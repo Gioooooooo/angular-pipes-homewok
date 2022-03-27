@@ -25,7 +25,7 @@ export class Homework1Component implements OnInit {
       firstName: 'Giorgi3',
       lastName: 'Kuprashvili3',
       about: 'smthing3',
-      birthDate: 2003,
+      birthDate: 2004,
       status: 'disabled',
     },
   ];
